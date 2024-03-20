@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=32&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'm+Cedric+Karungu" alt="Cedric921" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=32&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'M+ubalam+Mweze" alt="MubalamaMweze" /></h2>
 
 > I am a Software engineer with experience solving enterprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.
 
@@ -20,7 +20,7 @@
   HTML | CSS | Next.js | Angular | TailwindCSS | Ant.design | MUI  <br />
 </p>
 
-<h5 align="center"> Let's connect </h5>
+<!-- <h5 align="center"> Let's connect </h5>
 
 <p align="center">
 <a href="https://linkedin.com/in/cedric-karungu/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-cedrickarungu-blue?style=flat-square&logo=linkedin"></a>
@@ -59,17 +59,17 @@
   
 </table>
 
-<hr />
+<hr /> -->
 <h5 align="center">My Github Stats </h5>
 
 <div align="center">
 <!--   <picture> -->
-    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/Cedric921/Cedric921/output/github-contribution-grid-snake-dark.svg" />
+    <img align="center" alt="github-snake" src="https://raw.githubusercontent.com/MubalamaMweze/MubalamaMweze/output/github-contribution-grid-snake-dark.svg" />
 <!--   </picture> -->
 </div>
 
 <div align="center">
-  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=Cedric921&theme=gotham&hide_border=true" />
+  <img height="180em"  src="https://github-readme-streak-stats.herokuapp.com/?user=MubalamaMweze&theme=gotham&hide_border=true" />
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sineastra&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&show_icons=true"/>  -->
 </div>
 
@@ -263,8 +263,8 @@
 
 <h5 align="center">Visitor's count :eyes:</h5>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{cedric921}/count.svg" alt="roland :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{MubalamaMweze}/count.svg" alt="roland :: Visitor's Count" /></p>
 
-[![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=cedric921&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/cedric921/github-readme-activity-graph)
+[![cedric karungu's github activity graph](https://activity-graph.herokuapp.com/graph?username=MubalamaMweze&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true)](https://github.com/MubalamaMweze/github-readme-activity-graph)
 <br/>
 <br/>
