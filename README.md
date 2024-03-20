@@ -1,4 +1,4 @@
-<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=32&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'M+ubalam+Mweze" alt="MubalamaMweze" /></h2>
+<h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=3594F4&size=32&width=500&height=76&lines=Hi+%F0%9F%91%8B%2C+I'M+Mubalam+Mweze" alt="MubalamaMweze" /></h2>
 
 > I am a Software engineer with experience solving enterprise-level challenges using JavaScript / Typescript technologies. Passionate about writing and sharing knowledge. I Enjoy books and chess.
 
